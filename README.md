@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Full-stack software engineer with 3+ years across startups and scale-ups — building client-facing products, internal tools, and REST APIs with Django, Next.js, and React. Currently at **Enduring Planet**, shipping loan application flows, admin panels, and task management systems in production.
+Full-stack software engineer with 4+ years across startups and scale-ups — building client-facing products, internal tools, and REST APIs with Django, Next.js, and React. Currently at **Enduring Planet**, shipping loan application flows, admin panels, and task management systems in production.
 
 - 🔭 Building a **real-time collaborative board** with Django Channels & WebSockets (side project)
 - 🏢 Software Engineer @ [Enduring Planet](https://enduringplanet.com) — fintech / climate lending
